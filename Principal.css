@@ -1,0 +1,21 @@
+body{
+    font-family: "Lato", sans-serif;
+}
+#imagenPrincipal {
+    border-radius: 150px;
+}
+#skills{
+    background-color: rgb(39, 33, 30);
+    opacity: 0.9;
+}
+#fotoPerfil{
+    width: 50%;
+}
+#datos{
+    display: flex;
+    flex-direction: row;
+}
+#imagenPerfil{
+    display: flex;
+    justify-content: center;
+}
